@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # --- CONSTANTES ---
-CHAVE_PIX = "11984673296"  # Sua chave PIX
+CHAVE_PIX = "teste@teste.com"  # Sua chave PIX
 TEMPO_VALIDADE = 1800  # 30 minutos em segundos
 MAX_NUMEROS_APOSTA = 15  # Limite de números por aposta
 
